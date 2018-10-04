@@ -1,3 +1,0 @@
-dengjin
-zte
-test
